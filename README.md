@@ -37,3 +37,9 @@ summary of the analysis in in R and RMD
 -  Total number of rides for the period of (2019-01-01 to 2020-03-30) is 4,241,111rides, Noticed that Annual members have 3315766 rides with the % of 78.18%, and casual members have 925345 rides with the % of 21.81%.
 -  The top week day for casual riders bike rides is Saturday, and for annual members is Tuesday.
 -  The lowest rides for casual riders is Tuesday, and for annual members is Sunday.
+
+
+## My Recommendations: 
+A) We can start our campaign by conducting a survey for casual riders on Saturday since it's the top day for casual users. 
+B) We can conduct a marketing campaign on Saturday, and Streeter Dr & Grand Ave since it's the top for casual users 
+C) Finally we can make a discount for users only on Thursday, since it's the day when most casual riders have the longest avg ride_length
