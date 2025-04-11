@@ -37,7 +37,8 @@ summary of the analysis in in R and RMD
 - The least used start station is Avers Ave & Belmont Ave and Broadway & Cornelia Ave for members and casual respectively.
 -  The top week day for casual riders bike rides is Saturday with 11986 occurances, and for members is Thursday with 127966 occurances.
 -  The lowest rides for casual riders is Monday with 3784 riders, and for members is Sunday 7532 occurances.
-![image](https://github.com/user-attachments/assets/c0c2cce3-4fc1-49b0-845e-3f78729636e1)
+![image](https://github.com/user-attachments/assets/e5d578f6-d86c-4c76-9e45-2b7c442d2671)
+
 ## My Recommendations: 
 A) We can start our campaign by conducting a survey for casual riders on Saturday since it's the top day for casual users. 
 B) We can conduct a marketing campaign on Saturday, and Streeter Dr & Grand Ave since it's the top for casual users 
