@@ -1,4 +1,4 @@
-# Googledataanalytics-casestudy1
+![image](https://github.com/user-attachments/assets/c0c2cce3-4fc1-49b0-845e-3f78729636e1)# Googledataanalytics-casestudy1
 A full case study capstone project for google data analytics certificate course
 Google Data Analytics Case Study 1
 How Does a Bike-Share Navigate Speedy Success?
@@ -28,18 +28,17 @@ Project Phases: The main question is How do annual members and casual riders use
     - Identify trends and relationships.
 summary of the analysis in in R and RMD
 5- Share: the share includes the key insights.
-#Key insights
-- The average of ride length per minute is 0.2823 Minute and it is more than the minimum ride length of the causual users which is 0.16 minute
-- The maximum ride length per minute for member users occurs on Tuesday, however the maximum ride length per minute for casual users occur on Thursday. 
-- The most used start station in general is "Clinton St & Washington Blvd " with the amount of 15222 occurrences, Also which surprising it's the most used end station name by 84479 occurrences - The least used start_station_name is 2112 W Peterson Ave, with 546 occurrences, and surprisingly it's the same least used end station with 685.
-- The most used station for annual members is Canal St & Adams St 58161, and for casual users Streeter Dr & Grand Ave with 54634
-- The least used start station is 2112 W Peterson Ave for both types of users.
--  Total number of rides for the period of (2019-01-01 to 2020-03-30) is 4,241,111rides, Noticed that Annual members have 3315766 rides with the % of 78.18%, and casual members have 925345 rides with the % of 21.81%.
--  The top week day for casual riders bike rides is Saturday, and for annual members is Tuesday.
--  The lowest rides for casual riders is Tuesday, and for annual members is Sunday.
-
+# Key insights
+- The average ride length is 0.2823 minutes, which is longer than the causual users' minimum ride length of 0.16 minutes.
+- The maximum ride length per minute for member users occurs on Thursday, however the maximum ride length per minute for casual users occur on Saturday. 
+- The most used start station in general is Clinton St & Washington Blvd with the amount of 15398 occurrences, And the most used end station is Clinton St & Washington Blvd 
+-  The least used start_station_name is Clinton St & Jackson Blvd and Dearborn St & Monroe St with  6274 occurences. And, the list used end station is Hoyne Ave & 47th St  and Wentworth Ave & Cermak Rd (Temp) and other 3 end stations in member and causal user type respectively
+- The most used station for members is Clinton St & Washington Blvd, and for casual users Streeter Dr & Grand Ave with 2438
+- The least used start station is Avers Ave & Belmont Ave and Broadway & Cornelia Ave for members and casual respectively.
+-  The top week day for casual riders bike rides is Saturday with 11986 occurances, and for members is Thursday with 127966 occurances.
+-  The lowest rides for casual riders is Monday with 3784 riders, and for members is Sunday 7532 occurances.
 
 ## My Recommendations: 
 A) We can start our campaign by conducting a survey for casual riders on Saturday since it's the top day for casual users. 
 B) We can conduct a marketing campaign on Saturday, and Streeter Dr & Grand Ave since it's the top for casual users 
-C) Finally we can make a discount for users only on Thursday, since it's the day when most casual riders have the longest avg ride_length
+
