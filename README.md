@@ -38,6 +38,8 @@ summary of the analysis in in R and RMD
 -  The top week day for casual riders bike rides is Saturday with 11986 occurances, and for members is Thursday with 127966 occurances.
 -  The lowest rides for casual riders is Monday with 3784 riders, and for members is Sunday 7532 occurances.
 ![image](https://github.com/user-attachments/assets/e5d578f6-d86c-4c76-9e45-2b7c442d2671)
+![image](https://github.com/user-attachments/assets/c5e2ae52-5a4b-4442-a454-2f620ba57fed)
+
 
 ## My Recommendations: 
 A) We can start our campaign by conducting a survey for casual riders on Saturday since it's the top day for casual users. 
